@@ -1,11 +1,17 @@
-# 💫 About Me:
+# About Me
 
-👋 Hello, I'm Radoslav!<br>I'm a passionate programmer, fueled by curiosity and a love for new challenges. <br>With a background in Python, Django, and PostgreSQL.
+Hello, I'm **Radoslav Petkov**, a dedicated programmer with a strong foundation in Python, Django, and PostgreSQL. I am passionate about software development, constantly driven by curiosity and the desire to solve complex challenges with innovative solutions.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/r_petkov_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/radoslav-petkov-4a69a72a9) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23226455) 
+## Connect with Me
 
-## 💻 Tech Stack:
+- [LinkedIn](https://linkedin.com/in/radoslav-petkov-4a69a72a9)
+- [Instagram](https://instagram.com/r_petkov_)
+- [Stack Overflow](https://stackoverflow.com/users/23226455)
+
+## Technical Expertise
+
+I have extensive experience with a wide range of modern technologies and frameworks:
+
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -17,12 +23,10 @@
 ![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RadoslavPetkow&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RadoslavPetkow&theme=dark&hide_border=false)<br/>
+## GitHub Statistics
+
+Here are some statistics that highlight my contributions and showcase my most used programming languages:
+
+![](https://github-readme-stats.vercel.app/api?username=RadoslavPetkow&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=RadoslavPetkow&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RadoslavPetkow&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.paypal.com/donate/?hosted_button_id=VA2ETEK8GW9KA)
-
-  
