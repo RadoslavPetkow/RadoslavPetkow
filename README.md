@@ -10,8 +10,6 @@ Hello, I'm **Radoslav Petkov**, a dedicated programmer with a strong foundation 
 
 ## Technical Expertise
 
-I have extensive experience with a wide range of modern technologies and frameworks:
-
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -24,8 +22,6 @@ I have extensive experience with a wide range of modern technologies and framewo
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ## GitHub Statistics
-
-Here are some statistics that highlight my contributions and showcase my most used programming languages:
 
 ![](https://github-readme-stats.vercel.app/api?username=RadoslavPetkow&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RadoslavPetkow&theme=dark&hide_border=false)
